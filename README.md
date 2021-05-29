@@ -5,5 +5,4 @@ To run first install node modules with the following command :
 
 ```
 npm install
-
 ```
